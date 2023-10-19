@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Семен Теліженко",
+        "company": "Петренко Inc",
+        "e-mail": "boryskhrystenko@example.org"
+    },
+    {
+        "id": 2,
+        "name": "Тимофій Андрейко",
+        "company": "Яценко, Вітер and Цюпа",
+        "e-mail": "vashchukheorhii@example.org"
+    },
+    {
+        "id": 3,
+        "name": "Михайлина Акименко",
+        "company": "Давимука-Рева",
+        "e-mail": "hsatsiuk@example.net"
+    }
+]
